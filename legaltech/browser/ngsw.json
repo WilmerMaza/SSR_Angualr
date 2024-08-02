@@ -1,0 +1,139 @@
+{
+  "configVersion": 1,
+  "timestamp": 1722578506037,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-2MO35RQ6.js",
+        "/chunk-4NEZUN46.js",
+        "/chunk-7QE7EJJ5.js",
+        "/chunk-B476UJYL.js",
+        "/chunk-DUDZVCIV.js",
+        "/chunk-FRJFE2RG.js",
+        "/chunk-HQTBD4V5.js",
+        "/chunk-IR3SC5PD.js",
+        "/chunk-JQ7ADTK3.js",
+        "/chunk-LCKZ6OKH.js",
+        "/chunk-MJXYK3ME.js",
+        "/chunk-PVRTSHSE.js",
+        "/chunk-Q3PKJQ62.js",
+        "/chunk-R23RVDFM.js",
+        "/chunk-RCWOY2S6.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-TDYQNB2P.js",
+        "/manifest.webmanifest",
+        "/polyfills-SCHOHYNV.js",
+        "/styles-6FFWZA6T.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/colors.scss",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Nuestra firma/Banderita.webp",
+        "/assets/img/Nuestra firma/Nuestra-firma.webp",
+        "/assets/img/Servicios/Mayor.webp",
+        "/assets/img/empresas/adphor.webp",
+        "/assets/img/empresas/bahia.webp",
+        "/assets/img/empresas/boccard.webp",
+        "/assets/img/empresas/casacoliseo.webp",
+        "/assets/img/empresas/orange.webp",
+        "/assets/img/empresas/russell.webp",
+        "/assets/img/empresas/tenaris.webp",
+        "/assets/img/empresas/virrey.webp",
+        "/assets/img/logoLegalmovil.webp",
+        "/assets/img/logoLegalpc.webp"
+      ],
+      "patterns": [
+        "https:\\/\\/firebasestorage\\.googleapis\\.com\\/v0\\/b\\/legaltech-6d712\\.appspot\\.com\\/o\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/colors.scss": "14a7c7c0d1e09357e23862ef6218fd79054dc0d3",
+    "/assets/icons/icon-128x128.png": "71080e411584ffd941603b946535fbd35f8f5bc2",
+    "/assets/icons/icon-144x144.png": "d4ce7a6802e63346e96ba4127b32e651787b8916",
+    "/assets/icons/icon-152x152.png": "ae0ab4c85dcfdb33358d1976ed992c8d55e77f00",
+    "/assets/icons/icon-192x192.png": "1df4c5da24f6ca720a1b725e4102e53d17a1bc43",
+    "/assets/icons/icon-384x384.png": "3c61db342162fdfb4c54f98c98480d027d2ffa28",
+    "/assets/icons/icon-512x512.png": "a05892240b8f67513580e5fc45193538b895a5ee",
+    "/assets/icons/icon-72x72.png": "4784f963fe237aff932fb5f1e201375df5358dbd",
+    "/assets/icons/icon-96x96.png": "f7f5d1cb527d89cb43aacae73b39ecd0cfc58782",
+    "/assets/img/Nuestra firma/Banderita.webp": "3d5e4e915f8040d52043972bf72acbaa28be6f9a",
+    "/assets/img/Nuestra firma/Nuestra-firma.webp": "d33a6ca95a2f10f597d02142ec1db2cc73c9ddff",
+    "/assets/img/Servicios/Mayor.webp": "4adac077813c135c4824561aae82ea19ddcc2cc5",
+    "/assets/img/empresas/adphor.webp": "34acac959a7a6aaca6d2b708cacec811fd0fd5bf",
+    "/assets/img/empresas/bahia.webp": "ecc8da519c5e216c01d6383c75a8d3fde5a74a8e",
+    "/assets/img/empresas/boccard.webp": "34a26c049fc130ff256b5f753ffd036894d47a41",
+    "/assets/img/empresas/casacoliseo.webp": "d84c7770af76dd574f3840d2b34d7976664fa9fd",
+    "/assets/img/empresas/orange.webp": "e06613d1bc2218f5a6f33554a3aca49ec7bd5136",
+    "/assets/img/empresas/russell.webp": "616d86023b96331018c72953aea63eea5f857cb4",
+    "/assets/img/empresas/tenaris.webp": "528c1f39d4b506a826722edc33b0ec3c5ae00f41",
+    "/assets/img/empresas/virrey.webp": "05b3d96c698ed36b3947c3727b2e01e72d1473f6",
+    "/assets/img/logoLegalmovil.webp": "c2d06e35d910df1adc83f07b1e9fce693c3dbf1d",
+    "/assets/img/logoLegalpc.webp": "9b6dc7e62eeb83fd95ddbd815736ebe4de245aa8",
+    "/chunk-2MO35RQ6.js": "9a2ec9f3e29eaf01ed18a50f99043225ca8711d3",
+    "/chunk-4NEZUN46.js": "37e965107d1b686991ae93677575573fb2fac2c7",
+    "/chunk-7QE7EJJ5.js": "ef187674cff72a3e1052c981d63b40227f7c6713",
+    "/chunk-B476UJYL.js": "4008f6cea138fa04318914a768bafc5f8f61d86e",
+    "/chunk-DUDZVCIV.js": "620ba5346f49f70e6578bb128c5ba12c62d27fda",
+    "/chunk-FRJFE2RG.js": "31622a60d774a6480a1f5e5e61f7d1043a69e60a",
+    "/chunk-HQTBD4V5.js": "066aa1c36766d0051b64dbc1cfd02cc2c3c35648",
+    "/chunk-IR3SC5PD.js": "9e764b1e6ebbe89aaebd8ff8aa767a486220e9a8",
+    "/chunk-JQ7ADTK3.js": "faf0552c69bcf83d2f0963ec2b678f8133a77db0",
+    "/chunk-LCKZ6OKH.js": "0d9cfb30d30cb3f0c7011b19b34e14245b092d5d",
+    "/chunk-MJXYK3ME.js": "66163ecc8270c348948337b3f05c2b4b52f89ee2",
+    "/chunk-PVRTSHSE.js": "b55e462eeebb7f4111770dd1d2072947e9490902",
+    "/chunk-Q3PKJQ62.js": "bd3266d53ff0312e358dbfe4304f9e5d6176081d",
+    "/chunk-R23RVDFM.js": "00159a9e8ff00a03e74c88cd3c4fca96b04c0cb7",
+    "/chunk-RCWOY2S6.js": "3917a450f7f45fb989aa3761da3ecee2bcabffa9",
+    "/favicon.ico": "125cf217eb38c842f76057845de3d0e8d120dff3",
+    "/index.html": "d54f0e2e7ce9618f95c935d0be6dd79892ce3f28",
+    "/main-TDYQNB2P.js": "7cd59c2da9cbb1461da5e3f2a27a8e90492731c7",
+    "/manifest.webmanifest": "a3a15e546cbd0cbdab32a7163248bf11e9cc7f76",
+    "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/styles-6FFWZA6T.css": "6ca5f9172875f9d6db0f28c9fe20e04f4e19807b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
