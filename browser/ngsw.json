@@ -1,29 +1,29 @@
 {
   "configVersion": 1,
-  "timestamp": 1723612817607,
+  "timestamp": 1724913420656,
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "legaltech",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-4BVIYARE.js",
-        "/chunk-5ID7V2RT.js",
-        "/chunk-GZNDLUBD.js",
-        "/chunk-GZZADXLM.js",
-        "/chunk-IOYPEW4Z.js",
-        "/chunk-O4X6JCKO.js",
-        "/chunk-OBKQQV7S.js",
+        "/chunk-5BVK4D2F.js",
+        "/chunk-5OHF5NKI.js",
+        "/chunk-5W5XWEML.js",
+        "/chunk-6M4KMRQH.js",
+        "/chunk-DVQO57HV.js",
+        "/chunk-EU3JDAWE.js",
+        "/chunk-F354H3BS.js",
         "/favicon.ico",
         "/index.html",
-        "/main-OEI3AJZ6.js",
+        "/main-M4WBOHZC.js",
         "/manifest.webmanifest",
         "/polyfills-SCHOHYNV.js",
-        "/styles-6FFWZA6T.css"
+        "/styles-JZKXHRW5.css"
       ],
       "patterns": []
     },
@@ -36,8 +36,12 @@
       },
       "urls": [
         "/assets/colors.scss",
+        "/assets/icons/Innovacion_valores_legal.svg",
+        "/assets/icons/Mayor.svg",
+        "/assets/icons/Prejudicialidad_valores_legal.svg",
         "/assets/icons/bolso.webp",
         "/assets/icons/cartera.webp",
+        "/assets/icons/celeridad_valor_legal.svg",
         "/assets/icons/home.webp",
         "/assets/icons/icon-128x128.webp",
         "/assets/icons/icon-144x144.webp",
@@ -73,11 +77,30 @@
       ]
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [
+        "https:\\/\\/api\\.example\\.com\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 50,
+      "maxAge": 3600000,
+      "timeoutMs": 10000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
   "hashTable": {
-    "/assets/colors.scss": "14a7c7c0d1e09357e23862ef6218fd79054dc0d3",
+    "/assets/colors.scss": "60853bde9be5d7dcc761f3612ab9038f131c9193",
+    "/assets/icons/Innovacion_valores_legal.svg": "2c89c01e6b82eb5ad94d078a16b8a6fa22022edb",
+    "/assets/icons/Mayor.svg": "9c6f9a852b2c4c54ed57ae78b78ed08da254b45c",
+    "/assets/icons/Prejudicialidad_valores_legal.svg": "1b3c3aea871df3d8f1414bcb815d499f833a65b7",
     "/assets/icons/bolso.webp": "f63208392f228587f50f33304a1fbe3586a563f6",
     "/assets/icons/cartera.webp": "b55c444ff35028b5d9b731ad86936ad7b7abd815",
+    "/assets/icons/celeridad_valor_legal.svg": "70d13d7faeec2338af59f36bc1372d3256b7885d",
     "/assets/icons/home.webp": "a359c39d8224629aeccfd196712a0e12b61a5ead",
     "/assets/icons/icon-128x128.webp": "6f6e687469af2e13e8f9d03445e88edeae057e18",
     "/assets/icons/icon-144x144.webp": "3a9434e5eb8aee512683501eaf9b91ed44ca936a",
@@ -92,11 +115,11 @@
     "/assets/img/Nuestra firma/Nuestra-firma.webp": "d33a6ca95a2f10f597d02142ec1db2cc73c9ddff",
     "/assets/img/Servicios/Mayor.webp": "4adac077813c135c4824561aae82ea19ddcc2cc5",
     "/assets/img/carousel/equipo-estrategias-legales-movil.webp": "7ea607482b1b5393cc562754eaeee0368b2acd22",
-    "/assets/img/carousel/equipo-estrategias-legales.webp": "1f68693679bb350bf176efb4f6944f5e61bda052",
+    "/assets/img/carousel/equipo-estrategias-legales.webp": "79d253ddd5f3280d1514ac5e7361cfab9f6b00fa",
     "/assets/img/carousel/tablero-ajedrez-cristal-movil.webp": "d08ba2a95e429457a8e92bdeaaef73d57344d098",
-    "/assets/img/carousel/tablero-ajedrez-cristal.webp": "17e313a0addf8a0089c135684afebfcf70fc5f26",
+    "/assets/img/carousel/tablero-ajedrez-cristal.webp": "e6ee473aedfdbbfb2f785f2868e5b015800193f2",
     "/assets/img/carousel/tablero-ajedrez-reina-movil.webp": "eb85cc337d3c592843900a21910820cf4c3153b8",
-    "/assets/img/carousel/tablero-ajedrez-reina.webp": "eb7e3ce02d03fbfb8744c6fb4079b9a995758994",
+    "/assets/img/carousel/tablero-ajedrez-reina.webp": "55010d873db276a824f965be8e0be86d07014891",
     "/assets/img/empresas/adphor.webp": "c2aee9c1179412a2650379d91e07677b6b2e4ccf",
     "/assets/img/empresas/bahia.webp": "0eba51f36670b56a628323026ff6a24035e28aa7",
     "/assets/img/empresas/boccard.webp": "984f3a4bea554e7e9360f682327c524876786d6d",
@@ -107,19 +130,19 @@
     "/assets/img/empresas/virrey.webp": "ae589fd40381f1504d26c80a0331d0ade85194bf",
     "/assets/img/logoLegalmovil.webp": "c2d06e35d910df1adc83f07b1e9fce693c3dbf1d",
     "/assets/img/logoLegalpc.webp": "9b6dc7e62eeb83fd95ddbd815736ebe4de245aa8",
-    "/chunk-4BVIYARE.js": "caae650cbe9ed12b82cb58dd577f3e411bab692b",
-    "/chunk-5ID7V2RT.js": "8c1214f36078489a577e7871f01ce174c75970b1",
-    "/chunk-GZNDLUBD.js": "9cd1623202633fdff3e7038e7081b1062cbff5a0",
-    "/chunk-GZZADXLM.js": "ec513679b5065ac17dc5b7a9793f57618daffa6b",
-    "/chunk-IOYPEW4Z.js": "d14ce63d4a0c69097b89917fa5af76542a038fdd",
-    "/chunk-O4X6JCKO.js": "4757d1d1da2ce5fe166672ce233dde1ad863747b",
-    "/chunk-OBKQQV7S.js": "2bb3e7bbfde6b6b70f0d91736c30687129cf0881",
+    "/chunk-5BVK4D2F.js": "9ebc4bbf0664a3c2b7a6a2e1ef3c9f0a9e2f1f9b",
+    "/chunk-5OHF5NKI.js": "7999431a0ef056e1b557e18b307736f6420b8d34",
+    "/chunk-5W5XWEML.js": "9766da174808f8f5a57797508ef37f33695be553",
+    "/chunk-6M4KMRQH.js": "05a41e32fa6e109fff4fad40d01411e36c5ff54d",
+    "/chunk-DVQO57HV.js": "f28f0feb453f9a087ef1a01c806814a9529bb545",
+    "/chunk-EU3JDAWE.js": "d058588794bceaa3e66439aa652bd407502b7320",
+    "/chunk-F354H3BS.js": "a44f6d7d564ad16be431d1243f8d305e03e7d5f5",
     "/favicon.ico": "125cf217eb38c842f76057845de3d0e8d120dff3",
-    "/index.html": "03b6db5867d2ad3c145e8325a9a02df77859925f",
-    "/main-OEI3AJZ6.js": "a96bca97ad172d9418246d39858c17ae53d1dca5",
-    "/manifest.webmanifest": "f097569b801c547965450227839e2e25036e2331",
+    "/index.html": "26fc046ada12ab045238ae0af9495ee21a30238b",
+    "/main-M4WBOHZC.js": "84a5cdc798d968e3de7881945519aa786485269c",
+    "/manifest.webmanifest": "ac6c8469d80171b06505d4dd0772219854625261",
     "/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
-    "/styles-6FFWZA6T.css": "6ca5f9172875f9d6db0f28c9fe20e04f4e19807b"
+    "/styles-JZKXHRW5.css": "ac7ff8b40b3afdd6332fdb78daa67fc2a82c7f94"
   },
   "navigationUrls": [
     {
